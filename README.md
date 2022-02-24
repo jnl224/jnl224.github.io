@@ -8,5 +8,5 @@ I am very intersted in working for the entertainment industry, whether that be i
 Here is my [LinkedIn](https://www.linkedin.com/in/jennifer-lindley-85130b225/) page where you can view all of my previous work.
 # What Percentage of First-Years are Enrolled in Each College?
 
-<img src="https://github.com/jnl224/jnl224.github.io/blob/main/this%20one.png?raw=true" width="500" height="500" />
+<img src="https://github.com/jnl224/jnl224.github.io/blob/main/this%20one.png?raw=true" width="600" height="600" />
 In 2019, Lehigh University recorded data about the student body using information about how many students are enrolled as undergradutes vs graduates and information about the first-year class. I chose to focus on the data of the first-year class, looking at how many students are enrolled in each college. From the data it is clear that majority of students are enrolled in the College of Arts & Sciences. I gathered this data from looking at the 2019 report conducted by the Office of Institutional Research & Strategic Analytics. 
