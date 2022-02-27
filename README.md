@@ -11,3 +11,4 @@ In 2019, Lehigh University recorded data about the student body using informatio
 
 <img src="https://github.com/jnl224/jnl224.github.io/blob/main/this%20one.png?raw=true" width="600" height="800" />
  
+<img scr="https://github.com/jnl224/jnl224.github.io/blob/main/soccer.png?raw=true" width="600" height="800" />
