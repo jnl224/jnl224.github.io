@@ -11,7 +11,7 @@ In 2019, Lehigh University recorded data about the student body using informatio
 
 <img src="https://github.com/jnl224/jnl224.github.io/blob/main/this%20one.png?raw=true" width="600" height="800" />
  
-# Which Teams Have the Highest Percentage Change To Win The UEFA Champion League
+# Which Teams Have The Highest Percentage to Win the UEFA Championship League
  This information came from FiveThirtyEight which has many different places where they gather data about the predictions of different sports teams. Since my family is very into soccer, I choose to look at the predicted percentages of different club teams and their probability to win the UEFA Champion League. My method to find this data was to look at different sites that predict sports and pick the best data set. This data implies the percentage of each team winning, and the data set also includes the percentage of them making semis and making finals. 
  
 ![image](https://github.com/jnl224/jnl224.github.io/blob/main/soccer.png?raw=true)
