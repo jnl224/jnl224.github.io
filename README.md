@@ -15,3 +15,5 @@ In 2019, Lehigh University recorded data about the student body using informatio
  This information came from FiveThirtyEight which has many different places where they gather data about the predictions of different sports teams. Since my family is very into soccer, I choose to look at the predicted percentages of different club teams and their probability to win the UEFA Champion League. My method to find this data was to look at different sites that predict sports and pick the best data set. This data implies the percentage of each team winning, and the data set also includes the percentage of them making semis and making finals. 
  
 ![image](https://github.com/jnl224/jnl224.github.io/blob/main/soccer.png?raw=true)
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VvsdctZogMNoX0OK_LAtNp8eIRhXINidKc8FJoWFTFg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
