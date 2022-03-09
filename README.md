@@ -16,6 +16,10 @@ In 2019, Lehigh University recorded data about the student body using informatio
  
 ![image](https://github.com/jnl224/jnl224.github.io/blob/main/soccer.png?raw=true)
 
+# Timeline of the Rivarly between Lehigh and Lafayette 
+This timeline demonstrates the Le-Laf rivarly over the years, starting with the first game all the way back in 1884. Through pictures and textual description, it is clear how the rivarly has become extremely prevalent in every Lehigh and Lafayette student.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VvsdctZogMNoX0OK_LAtNp8eIRhXINidKc8FJoWFTFg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+# Timeline of Hailey Baldwin and Justin Bieber
+Justin Bieber has been in the public eye for the majority of his life, and his relationships have been a central part of his fame. When speculation began that he was dating Hailey Baldwin, the internet went crazy. Now the two are happily married. Below is a timeline of how they met and got to becoming engaged. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Fqf6R2Y7QVifR-H4icA9q9zKOgymW6DEMKQREaZfNgc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
