@@ -28,7 +28,11 @@ Justin Bieber has been in the public eye for the majority of his life, and his r
 Here is a chart of the three countries with the largest population from 1952 to 1961.
 ![image](https://github.com/jnl224/jnl224.github.io/blob/main/timeseries.png?raw=true)
 
+# Percentage of Students Enrolled in Each College at Lehigh 2021
+Using the data provided by Lehigh, I created a chart demonstrating the percentage of students enrolled in each college during 2021. As expected, enrollement in Arts & Sciences was the highest, followed by Engineering and Applied Sciences. 
+![image](https://github.com/jnl224/jnl224.github.io/blob/main/Lehigh.png?raw=true)
 
-
-
+# Global Average Coffee Prices in the Past Seven Years
+Here is a display of the average coffee prices globally during the past seven years. The highest price is right now in 2022 and the lowest price was in 2019.
+![image](https://github.com/jnl224/jnl224.github.io/blob/main/orange.png?raw=true)
 
