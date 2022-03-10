@@ -26,4 +26,4 @@ Justin Bieber has been in the public eye for the majority of his life, and his r
 
 # Time Series Chart
 Here is a chart of the three countries with the largest population from 1952 to 1961.
-https://github.com/jnl224/jnl224.github.io/blob/main/Three_Countries_with_the_Largest_Population_China_India_U.S._chartbuilder.png?raw=true
+![title] https://github.com/jnl224/jnl224.github.io/blob/main/Three_Countries_with_the_Largest_Population_China_India_U.S._chartbuilder.png?raw=true
