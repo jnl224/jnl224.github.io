@@ -23,3 +23,7 @@ This timeline demonstrates the Le-Laf rivarly over the years, starting with the 
 # Timeline of Hailey Baldwin and Justin Bieber
 Justin Bieber has been in the public eye for the majority of his life, and his relationships have been a central part of his fame. When speculation began that he was dating Hailey Baldwin, the internet went crazy. Now the two are happily married. Below is a timeline of how they met and got to becoming engaged. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Fqf6R2Y7QVifR-H4icA9q9zKOgymW6DEMKQREaZfNgc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+# Time Series Chart
+Here is a chart of the three countries with the largest population from 1952 to 1961.
+https://github.com/jnl224/jnl224.github.io/blob/main/Three_Countries_with_the_Largest_Population_China_India_U.S._chartbuilder.png?raw=true
