@@ -41,5 +41,5 @@ Using data provided by Lehigh's Office of Institutional Research, the graph belo
 ![image](https://github.com/jnl224/jnl224.github.io/blob/main/%25.png?raw=true)
 
 # Life Satisfaction in Cantril Ladder
-The scatter plot I chose demonstrated the self-reported life satisfaction vs GDP per capita in 
-![image](https://github.com/jnl224/jnl224.github.io/blob/main/satisfaction.png?raw=true)
+The scatter plot I chose demonstrated the self-reported life satisfaction vs GDP per capita in 2017 of 17 different countries. The highest level of life satisfaction was in Finland, with their GDP per capita being towards the middle/highest compared to the other countries. The lowest level of life satisfaction was in India, with their GDP per capita being a bit higher than Finland. The graph does not show each country and their corresponding GDP per capita and life satisfaction, but using the data set I was provided with, I came to these conclusions. 
+![image](https://github.com/jnl224/jnl224.github.io/blob/main/satisfactio1n.png?raw=true)
