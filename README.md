@@ -38,5 +38,5 @@ Here is a display of the average coffee prices globally during the past seven ye
 
 # Percentage of Lehigh Students Enrolled in Three Colleges at Lehigh in the Past Five Years
 Using data provided by Lehigh's Office of Institutional Research, the graph below provides the percentage of students who enrolled in the College of Arts and Sciences, the College of Business, and the College of Engineering in the past five years. As the chart shows, the percentage of students enrolled in the College of Arts & Sciences is always the highest. 
-![image]
+![image](https://github.com/jnl224/jnl224.github.io/blob/main/%25.png?raw=true)
 
