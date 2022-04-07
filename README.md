@@ -47,3 +47,7 @@ The scatter plot I chose demonstrated the self-reported life satisfaction vs GDP
 # Median Age vs Births Per Women
 Our World in Data provides a variety of charts that demonstrate the relationships between many different things. I choose to focus on age structure, specifically the comparison between the median age of women in different countries and the amount of births per women in each country. Out of the ten countries I chose to focus on, the oldest median age was in Italy and the youngest median age was in Bangledesh. The country with the highest amount of births per woman was Malaysia, with a statistic of 1.97. The data set I focused on was from 2020, but this chart and visual can take you through many different years. 
 ![image](https://github.com/jnl224/jnl224.github.io/blob/main/median.png?raw=true)
+
+# Top 20 Most Bike Friendly Cities 2019
+In 2019, Wired ranked the top 20 most bike-friendly cities in the entire world. These cities ranged across the country including cities in Europe, Japan, the United States and more. The article included some criticism for each city they included as well as the benefits, or the reason why the city was included in this list.
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=163LV8lMeWr_OhMmMItCUdHcQu2NBCXSl&ehbc=2E312F" width="640" height="480"></iframe>
